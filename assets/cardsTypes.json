@@ -1,0 +1,69 @@
+{
+  "length" : 6,
+  "1" : {
+    "title": "Deck de depart",
+    "quantite": 62,
+    "img" : "assets/cheers.png",
+    "details" : "Ceci est le deck classique de iSip. Il contient toute sorte de challenges et devrais etre suffisant pour des parties memorables.\n\nVoici quelques idéés folles que vous pouvez trouver dans ce deck: \n\n- Mange un morceau de serviette en papier\n- Fais semblans de donner naissance a une bouteille\n- Envoi un message disant 'je t'aime' a un contact choisi au hasard",
+    "free":true,
+    "alpha": 255,
+    "red": 230,
+    "green": 230,
+    "blue": 230
+  },
+  "2" : {
+    "title": "Le Dictateur",
+    "quantite": 23,
+    "img" : "assets/dictator.jpg",
+    "details" : "etc...",
+    "free":false,
+    "alpha": 255,
+    "red": 0,
+    "green": 153,
+    "blue": 0
+  },
+  "3" : {
+    "title": "YOLO",
+    "quantite": 12,
+    "img" : "assets/rock-and-roll.png",
+    "details" : "etc...",
+    "free":false,
+    "alpha": 255,
+    "red": 153,
+    "green": 0,
+    "blue": 153
+  },
+  "4" : {
+    "title": "Nuit d'enfer",
+    "quantite": 23,
+    "img" : "assets/moon.png",
+    "details" : "etc...",
+    "free":false,
+    "alpha": 255,
+    "red": 0,
+    "green": 0,
+    "blue": 230
+  },
+  "5" : {
+    "title": "EPIQUE",
+    "quantite": 21,
+    "img" : "assets/viking.png",
+    "details" : "etc...",
+    "free":false,
+    "alpha": 255,
+    "red": 0,
+    "green": 255,
+    "blue": 255
+  },
+  "6" : {
+    "title": "Honteux...",
+    "quantite": 30,
+    "img" : "assets/cone-of-shame.png",
+    "details" : "etc...",
+    "free":false,
+    "alpha": 255,
+    "red": 255,
+    "green": 128,
+    "blue": 0
+  }
+}

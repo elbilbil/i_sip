@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654710764959",
+    "firebase_url": "https://i-sip-54a3b.firebaseio.com",
+    "project_id": "i-sip-54a3b",
+    "storage_bucket": "i-sip-54a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654710764959:android:316228ea7eb6225bad79aa",
+        "android_client_info": {
+          "package_name": "com.example.i_sip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654710764959-7s104if4htbcf50v127ef9qk231icnpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfHimASL17IrPvmqTq5vvUo53SY3expps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654710764959-7s104if4htbcf50v127ef9qk231icnpb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654710764959-7itdilta7q2bls65jl3ksb07n6bp1pto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iSip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
