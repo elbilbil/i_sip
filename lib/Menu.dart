@@ -64,7 +64,7 @@ class _MenuState extends State<Menu> {
                   final response = json.decode(snapshot.data.toString());
                   return LayoutBuilder(
                     builder: (context, constraints) {
-                      if (response.toString().isNotEmpty) {
+                      if (response['length'] != null) {
                         for (var i = 1; i < response['length'] + 1; i += 1) {
                           final res = response[i.toString()];
                           cardBox.add(CardBox(
